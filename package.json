@@ -1,0 +1,31 @@
+{
+  "name": "flatten",
+  "version": "0.1.0",
+  "description": "An array flatten function demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "lint": "eslint --fix *.js",
+    "doc": "documentation build src/index.js -f md -o README.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toxic-johann/flatten.git"
+  },
+  "keywords": [
+    "flatten"
+  ],
+  "author": "toxic-johann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/toxic-johann/flatten/issues"
+  },
+  "homepage": "https://github.com/toxic-johann/flatten#readme",
+  "devDependencies": {
+    "documentation": "^8.1.2",
+    "eslint": "^5.6.1",
+    "eslint-config-egg": "^7.1.0",
+    "eslint-plugin-jest": "^21.24.1",
+    "jest": "^23.6.0"
+  }
+}
