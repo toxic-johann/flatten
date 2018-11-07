@@ -2,6 +2,8 @@
 
 ### Table of Contents
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/toxic-johann/flatten.svg)](https://greenkeeper.io/)
+
 -   [flatten][1]
     -   [Parameters][2]
 
